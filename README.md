@@ -1,4 +1,4 @@
-# <img src = "image/post.png" style = "width: 20px; height: 20px;"/> PostMan 
+# PostMan 
 ## Introduce
 <img src = "image/sample1.png"/>
 
