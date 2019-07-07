@@ -1,14 +1,13 @@
-# PostMan 
-## Introduce
-<img src = "image/sample1.png"/>
+# PostMan
+<img src = "docs/images/sample1.png"/>
 
-Postman is a remote interface debuger for http method(post, get), which only support one data format - Json.
+Postman是一个远程http方法调用工具，支持`post`,`get`，目前只支持json格式。
 
-## Environment
-- System: `Windows 7` or later
-- Runtime: `.Net Framwork 4.5`
+## 环境
+- 系统: `Windows 7`
+- 运行时: `.Net Framwork 4.5`
 - IDE： `Visual Studio 2017`
-## Usage
-> 1) git clone https://github.com/CHENTsang/postman.git
+## U用法
+> 1) git clone https://github.com/xijiz/postman.git
 > 2) cd src\Postman\Postman\bin\Release
 > 3) Postman.exe
